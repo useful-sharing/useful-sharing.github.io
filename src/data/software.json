@@ -1,0 +1,20 @@
+{
+  "officeSoftware": [
+    {
+      "name": "WindowsTerminal",
+      "url": "https://github.com/microsoft/terminal",
+      "desc": "微软官方现代终端"
+    },
+    {
+      "name": "Terminus",
+      "url": "https://github.com/Eugeny/terminus",
+      "desc": "基于 Electron 的现代终端"
+    },
+    { "name": "XDown", "url": "https://xdown.org/", "desc": "免费的多线程下载工具" },
+    {
+      "name": "VSCode",
+      "url": "https://code.visualstudio.com/",
+      "desc": "基于 Electron 的优秀 IDE"
+    }
+  ]
+}
